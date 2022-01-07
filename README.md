@@ -1,5 +1,5 @@
-# projet_fde
-Projet fin d'études: La complexité de la requête SQL
+# Projet FDE
+Projet fin d'études:  Etude de la complexité de requêtes de  SQL ( avec SQLShare )- étude statistique et visualisation
 ## Lien sur le travail personel
 https://colab.research.google.com/drive/1_BBbWTCLNnQ8kdgBPNskDp41hYCHM8fy?usp=sharing
 ## Description du sujet de projet  
